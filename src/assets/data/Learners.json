@@ -1,0 +1,318 @@
+[
+    {
+      "id": "eileenHorton-1153",
+      "name": "Eileen Horton",
+      "email": "eileen_h@hotmail.com",
+      "img": "https://randomuser.me/api/portraits/lego/6.jpg",
+      "daysPresent": "40",
+      "linesofCode": 1570,
+      "dateJoined": "February 1, 2021",
+      "noofCommits": "150",
+      "personalInfo": {
+        "location": "New York, US",
+        "title": "Product Manager",
+        "birthday": "10/10/1992",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "terranceMoreno-1322",
+      "name": "Terrance Moreno",
+      "email": "",
+      "img": "https://randomuser.me/api/portraits/lego/0.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1570,
+      "dateJoined": "February 1, 2021",
+      "noofCommits": "160",
+      "personalInfo": {
+        "location": "New York, US",
+        "title": "Software Engineer",
+        "birthday": "03/02/1984",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "ronVargas7653",
+      "name": "Ron Vargas",
+      "email": "ronnie_vergas@infotech.io",
+      "img": "https://randomuser.me/api/portraits/lego/5.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1570,
+      "dateJoined": "February 20, 2021",
+      "noofCommits": "250",
+      "personalInfo": {
+        "location": "New York, US",
+        "title": "UI/UX Designer",
+        "birthday": "07/11/1987",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "lukeCook4721",
+      "name": "Luke Cook",
+      "email": "cookie_lukie@hotmail.com",
+      "img": "https://randomuser.me/api/portraits/men/35.jpg",
+      "daysPresent": "40",
+      "linesofCode": 1570,
+      "dateJoined": "February 1, 2021",
+      "noofCommits": "350",
+      "personalInfo": {
+        "location": "New York, US",
+        "title": "HR Executive",
+        "birthday": "07/11/1987",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "joyceFreeman1384",
+      "name": "Joyce Freeman",
+      "email": "joyce991@infotech.io",
+      "img": "https://randomuser.me/api/portraits/women/38.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "March 1 2021",
+      "noofCommits": "50",
+      "personalInfo": {
+        "location": "New York, US",
+        "title": "Frontend Developer",
+        "birthday": "17/11/1993",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "samanthaPhillips8493",
+      "name": "Samantha Phillips",
+      "email": "samanthaphil@infotech.io",
+      "img": "https://randomuser.me/api/portraits/women/22.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "February 15, 2021",
+      "noofCommits": "200",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Compliance Manager",
+        "birthday": "17/11/1993",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "taraFletcher1263",
+      "name": "Tara Fletcher",
+      "email": "taratarara@imaze.edu.du",
+      "img": "https://randomuser.me/api/portraits/men/7.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "March 10, 2021",
+      "noofCommits": "150",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Compliance Manager",
+        "birthday": "17/11/1993",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "frederickAdams6532",
+      "name": "Frederick Adams",
+      "email": "iamfred@imaze.infotech.io",
+      "img": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1570,
+      "dateJoined": "March 1, 2021",
+      "noofCommits": "150",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Compliance Manager",
+        "birthday": "17/11/1993",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "carolynHanson7953",
+      "name": "Carolyn Hanson",
+      "email": "carolyn_h@gmail.com",
+      "img": "https://randomuser.me/api/portraits/lego/2.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "March 1, 2021",
+      "noofCommits": "155",
+      "personalInfo": {
+        "location": "Texas, US",
+        "title": "Compliance Manager",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "brittanyHale3683",
+      "name": "Brittany Hale",
+      "email": "brittany1134@gmail.com",
+      "img": "https://randomuser.me/api/portraits/men/30.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "February 5, 2021",
+      "noofCommits": "190",
+      "personalInfo": {
+        "location": "Texas, US",
+        "title": "Compliance Manager",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "lloydObrien1564",
+      "name": "Lloyd Obrien",
+      "email": "handsome-obrien@hotmail.com",
+      "img": "https://randomuser.me/api/portraits/women/87.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "March 6, 2021",
+      "noofCommits": "180",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Software Engineer",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "gabriellaMay2850",
+      "name": "Gabriella May",
+      "email": "maymaymay12@infotech.io",
+      "img": "https://randomuser.me/api/portraits/women/91.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1570,
+      "dateJoined": "March 7,2021",
+      "noofCommits": "450",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Software Engineer",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "leeWheeler1941",
+      "name": "Lee Wheeler",
+      "email": "",
+      "img": "https://randomuser.me/api/portraits/women/83.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "February 8, 2021",
+      "noofCommits": "350",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Software Engineer",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "gailBarnes7615",
+      "name": "Gail Barnes",
+      "email": "gailby0116@infotech.io",
+      "img": "https://randomuser.me/api/portraits/women/30.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "February 22, 2021",
+      "noofCommits": "150",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Software Engineer",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    },
+    {
+      "id": "ellaRobinson1093",
+      "name": "Ella Robinson",
+      "email": "ella_robinson@infotech.io",
+      "img": "https://randomuser.me/api/portraits/women/0.jpg",
+      "daysPresent": "50",
+      "linesofCode": 1580,
+      "dateJoined": "March 10, 2021",
+      "noofCommits": "550",
+      "personalInfo": {
+        "location": "London, UK",
+        "title": "Software Engineer",
+        "birthday": "03/06/1991",
+        "phoneNumber": "+12-123-1234",
+        "facebook": "facebook.com/sample",
+        "linkedin": "linkedin.com/sample",
+        "twitter": "twitter.com/sample",
+        "instagram": "instagram.com/sample",
+        "site": "samplesite.com"
+      }
+    }
+  ]
+  
